@@ -1,0 +1,9 @@
+{
+  "id": "dow-copy-zendesk",
+  "name": "Copy note for Zendesk",
+  "version": "1.0.3",
+  "minAppVersion": "1.4.0",
+  "description": "Copy the current note as Zendesk-safe HTML: real images (not |700), headings as bold paragraphs, blank lines kept.",
+  "author": "Cameron",
+  "isDesktopOnly": true
+}

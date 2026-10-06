@@ -1,0 +1,11 @@
+.dow-copy-zendesk-buffer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 800px;
+  height: auto;
+  opacity: 0;
+  pointer-events: none;
+  z-index: -1;
+  overflow: visible;
+}
