@@ -1,12 +1,12 @@
 # Copy note for Zendesk
 
-Private Obsidian plugin for monday TSEs. Copies the open note as HTML that Zendesk internal comments keep: screenshots as real images, blank lines between body paragraphs, headings flush with the content under them.
+Obsidian plugin. Copies the open note as HTML that Zendesk comment editors keep: screenshots as real images, blank lines between body paragraphs, headings flush with the content under them.
 
-Not an Obsidian community plugin. Do not install via BRAT.
+Not an official Obsidian community plugin. Do not install it via BRAT.
 
 ## Use
 
-Open a DOW. Run **Copy note for Zendesk** (`Cmd+Shift+C`, command palette, or ribbon clipboard icon). Do not select-all. Paste into a Zendesk internal comment.
+Open a note. Run **Copy note for Zendesk** (`Cmd+Shift+C`, command palette, or ribbon clipboard icon). Do not select-all. Paste into a Zendesk comment.
 
 ## Install with Cursor
 
@@ -22,7 +22,7 @@ Turn **Restricted mode** off once in Settings → Community plugins if it is sti
 2. Settings → Community plugins → Restricted mode off → enable **Copy note for Zendesk**.
 3. Reload the app.
 
-Do not copy `last-copy.html` if you see one locally. That dump can contain ticket screenshots.
+Do not copy `last-copy.html` if you see one locally. That file is a local paste dump.
 
 ## Update
 
